@@ -1,0 +1,54 @@
+{
+  "menuHeaderItems": {
+    "default": {
+      "en": [
+        "File",
+        "Edit",
+        "View",
+        "Tools"
+      ]
+    },
+    "notepad": {
+      "en": [
+        "File",
+        "Edit",
+        "View",
+        "Help"
+      ]
+    },
+    "images": {
+      "en": [
+        "File",
+        "Edit",
+        "Favorites",
+        "Tools",
+        "Help"
+      ]
+    },
+    "documents": {
+      "en": [
+        "File",
+        "Edit",
+        "View",
+        "Favorites",
+        "Tools",
+        "Help"
+      ]
+    },
+    "contact": {
+      "en": [
+        "File",
+        "Edit",
+        "View",
+        "Insert",
+        "Format",
+        "Tools",
+        "Message",
+        "Help"
+      ]
+    },
+    "none": {
+      "en": []
+    }
+  }
+}

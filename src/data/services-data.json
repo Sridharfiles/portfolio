@@ -1,0 +1,632 @@
+{
+  "categories": [
+    {
+      "name": {
+        "en": "Web Development"
+      },
+      "services": [
+        {
+          "name": {
+            "en": "Business Website"
+          },
+          "description": {
+            "en": "Professional website for your business"
+          },
+          "icon": "services/business-website-icon-lg.webp",
+          "price": "95-420",
+          "duration": {
+            "en": "2-6 weeks"
+          },
+          "features": {
+            "en": [
+              "Custom professional website adapted to your business",
+              "Clear presentation of your services, company, and contact information",
+              "Modern and mobile-friendly design",
+              "Fast-loading pages for a smooth visitor experience",
+              "Basic SEO setup to help your website appear on Google",
+              "Secure website setup and best practices",
+              "Contact form or inquiry form for customers",
+              "Professional email address setup (e.g. contact@yourbusiness.com)",
+              "Easy content updates with guidance provided",
+              "Documentation and handover"
+            ]
+          },
+          "plans": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "title": { "en": "Starter / Landing Page" },
+              "price_inr": "8,000",
+              "price_usd": "95.00",
+              "description": {
+                "en": "Modern high-converting single-page responsive website, contact form, fast loading, and mobile optimization"
+              },
+              "deliverables": [
+                { "name": "1 Page / High-converting Landing page", "included": true },
+                { "name": "Mobile, tablet & desktop responsive UI", "included": true },
+                { "name": "Interactive contact / lead form", "included": true },
+                { "name": "Basic on-page SEO & meta tags", "included": true },
+                { "name": "Fast page loading & speed optimization", "included": true },
+                { "name": "Social media links integration", "included": true },
+                { "name": "Multi-page navigation & sub-pages", "included": false },
+                { "name": "CMS / Blog management setup", "included": false }
+              ]
+            },
+            {
+              "id": "standard",
+              "name": "Standard",
+              "title": { "en": "Corporate Multi-Page Website" },
+              "price_inr": "18,000",
+              "price_usd": "215.00",
+              "description": {
+                "en": "Full multi-page business website (up to 5 pages) showcasing company profile, services, and inquiry forms"
+              },
+              "deliverables": [
+                { "name": "Up to 5 custom-designed pages", "included": true },
+                { "name": "Mobile, tablet & desktop responsive UI", "included": true },
+                { "name": "Contact & inquiry forms setup", "included": true },
+                { "name": "Google Maps & business location", "included": true },
+                { "name": "Basic on-page SEO & meta tags", "included": true },
+                { "name": "Professional email setup guidance", "included": true },
+                { "name": "Fast page loading & speed optimization", "included": true },
+                { "name": "CMS / Blog management setup", "included": false }
+              ]
+            },
+            {
+              "id": "premium",
+              "name": "Premium",
+              "title": { "en": "Enterprise Business Website" },
+              "price_inr": "35,000",
+              "price_usd": "420.00",
+              "description": {
+                "en": "Complete corporate web solution (up to 10 pages) with custom CMS/blog, animations, analytics, and priority support"
+              },
+              "deliverables": [
+                { "name": "Up to 10 custom-designed pages", "included": true },
+                { "name": "Custom CMS / Blog setup for content editing", "included": true },
+                { "name": "Custom animations & modern UI/UX design", "included": true },
+                { "name": "Advanced SEO setup & schema markup", "included": true },
+                { "name": "Google Analytics & Matomo integration", "included": true },
+                { "name": "Domain & hosting deployment assistance", "included": true },
+                { "name": "Contact, lead capture & inquiry forms", "included": true },
+                { "name": "Priority support & handover training", "included": true }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "E-commerce Website"
+          },
+          "description": {
+            "en": "Full-featured online store"
+          },
+          "icon": "services/ecommerce-icon-lg.webp",
+          "price": "215-650",
+          "duration": {
+            "en": "6-12 weeks"
+          },
+          "features": {
+            "en": [
+              "Custom online store designed for your business",
+              "Easy-to-manage product catalog (add, edit, remove products)",
+              "Secure online payments (credit card and common payment methods)",
+              "Order management and customer notifications",
+              "Mobile-friendly design that works on all devices",
+              "Fast-loading pages for a smooth shopping experience",
+              "SEO optimization to improve search engine visibility",
+              "Secure website setup and best practices",
+              "Professional email address setup (e.g. contact@yourbusiness.com)",
+              "Analytics setup to track user behavior and sales using Matomo (GDPR compliant)",
+              "Training and documentation to manage your store independently"
+            ]
+          },
+          "plans": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "title": { "en": "Starter Online Store" },
+              "price_inr": "18,000",
+              "price_usd": "215.00",
+              "description": {
+                "en": "Essential online shop setup (up to 15 products), shopping cart, secure checkout, and payment gateway"
+              },
+              "deliverables": [
+                { "name": "Up to 15 products catalog setup", "included": true },
+                { "name": "Shopping cart & secure checkout flow", "included": true },
+                { "name": "Payment gateway integration (Stripe / Razorpay)", "included": true },
+                { "name": "Mobile-friendly responsive store layout", "included": true },
+                { "name": "Order confirmation & customer email alerts", "included": true },
+                { "name": "Basic store SEO & product meta tags", "included": true },
+                { "name": "Customer accounts & order history", "included": false },
+                { "name": "Advanced product filtering & search", "included": false }
+              ]
+            },
+            {
+              "id": "standard",
+              "name": "Standard",
+              "title": { "en": "Growth E-commerce Store" },
+              "price_inr": "32,000",
+              "price_usd": "380.00",
+              "description": {
+                "en": "Full-featured online store (up to 50 products) with customer accounts, inventory, coupons, and variants"
+              },
+              "deliverables": [
+                { "name": "Up to 50 products with variants (size/color)", "included": true },
+                { "name": "Customer accounts & order tracking", "included": true },
+                { "name": "Coupon codes, discounts & promotional banners", "included": true },
+                { "name": "Multiple payment gateways & currency display", "included": true },
+                { "name": "Shipping rate calculation & tax rules", "included": true },
+                { "name": "Product inventory & stock management", "included": true },
+                { "name": "SEO optimization for product pages", "included": true },
+                { "name": "Abandoned cart recovery automation", "included": false }
+              ]
+            },
+            {
+              "id": "premium",
+              "name": "Premium",
+              "title": { "en": "Advanced E-commerce Platform" },
+              "price_inr": "55,000",
+              "price_usd": "650.00",
+              "description": {
+                "en": "Scalable high-volume e-commerce platform with unlimited products, advanced search, multi-currency, and automation"
+              },
+              "deliverables": [
+                { "name": "Unlimited products scalable architecture", "included": true },
+                { "name": "Advanced product search & multi-attribute filters", "included": true },
+                { "name": "Wishlist & customer product reviews system", "included": true },
+                { "name": "Abandoned cart recovery & email marketing", "included": true },
+                { "name": "Multi-currency switcher & international payments", "included": true },
+                { "name": "Sales analytics & Matomo / Google Analytics", "included": true },
+                { "name": "Performance speed optimization & CDN setup", "included": true },
+                { "name": "Store handover training & priority support", "included": true }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Mobile Development"
+      },
+      "services": [
+        {
+          "name": {
+            "en": "Mobile Application"
+          },
+          "description": {
+            "en": "Native or hybrid mobile application"
+          },
+          "icon": "services/mobile-icon-lg.webp",
+          "price": "11200-22400",
+          "duration": {
+            "en": "8-16 weeks"
+          },
+          "features": {
+            "en": [
+              "Custom mobile application tailored to business requirements",
+              "Native (iOS / Android) or cross-platform development",
+              "Clean and scalable application architecture",
+              "Responsive and user-friendly UI implementation",
+              "API integration and backend communication",
+              "Authentication and user management",
+              "Local data storage and offline support",
+              "Performance optimization and testing",
+              "App store preparation and deployment support",
+              "Technical documentation and handover"
+            ]
+          },
+          "plans": [
+            {
+              "id": "basic",
+              "name": "Basic",
+              "title": { "en": "Starter App" },
+              "price_inr": "10,016.83",
+              "price_usd": "120.00",
+              "description": {
+                "en": "Simple Flutter mobile application for Android with responsive UI, app icon, splash screen, and basic components"
+              },
+              "delivery": { "en": "5-day delivery" },
+              "revisions": { "en": "2 Revisions" },
+              "deliverables": [
+                { "name": "Functional Android app", "included": true },
+                { "name": "Functional IOS App", "included": true },
+                { "name": "App design", "included": false },
+                { "name": "App submission", "included": false },
+                { "name": "App icon", "included": true },
+                { "name": "Splash screen", "included": true },
+                { "name": "Ad network integration", "included": false },
+                { "name": "Source code", "included": true }
+              ]
+            },
+            {
+              "id": "standard",
+              "name": "Standard",
+              "title": { "en": "Business App" },
+              "price_inr": "25,042.06",
+              "price_usd": "300.00",
+              "description": {
+                "en": "Cross-platform Flutter app for Android and iOS with custom UI, Firebase/API integration (if required)"
+              },
+              "delivery": { "en": "10-day delivery" },
+              "revisions": { "en": "4 Revisions" },
+              "deliverables": [
+                { "name": "Functional Android app", "included": true },
+                { "name": "Functional IOS App", "included": true },
+                { "name": "App design", "included": true },
+                { "name": "App submission", "included": false },
+                { "name": "App icon", "included": true },
+                { "name": "Splash screen", "included": true },
+                { "name": "Ad network integration", "included": false },
+                { "name": "Source code", "included": true }
+              ]
+            },
+            {
+              "id": "premium",
+              "name": "Premium",
+              "title": { "en": "Premium App" },
+              "price_inr": "50,084.13",
+              "price_usd": "600.00",
+              "description": {
+                "en": "Complete Flutter mobile application for Android and iOS with custom UI/UX, Firebase/API integration, and store submission"
+              },
+              "delivery": { "en": "14-day delivery" },
+              "revisions": { "en": "6 Revisions" },
+              "deliverables": [
+                { "name": "Functional Android app", "included": true },
+                { "name": "Functional IOS App", "included": true },
+                { "name": "App design", "included": true },
+                { "name": "App submission", "included": true },
+                { "name": "App icon", "included": true },
+                { "name": "Splash screen", "included": true },
+                { "name": "Ad network integration", "included": true },
+                { "name": "Source code", "included": true }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "DevOps & Infrastructure"
+      },
+      "services": [
+        {
+          "name": {
+            "en": "CI/CD Pipeline Setup"
+          },
+          "description": {
+            "en": "Automated deployment and testing pipeline"
+          },
+          "icon": "services/pipeline-icon-lg.webp",
+          "price": "80-200",
+          "duration": {
+            "en": "1-2 weeks"
+          },
+          "features": {
+            "en": [
+              "Custom CI/CD pipeline tailored to project requirements",
+              "Automated build, test, and deployment workflows",
+              "Integration with GitHub Actions, GitLab CI, or similar platforms",
+              "Environment-based deployments (staging, production)",
+              "Pipeline failure alerts and notifications",
+              "Optimized build performance using caching and parallel jobs",
+              "Secure management of secrets and environment variables",
+              "Rollback strategy for failed deployments",
+              "Clear documentation and handover"
+            ]
+          }
+        },
+        {
+          "name": {
+            "en": "Docker & Containerization"
+          },
+          "description": {
+            "en": "Containerize your applications"
+          },
+          "icon": "services/docker-icon-lg.webp",
+          "price": "60-160",
+          "duration": {
+            "en": "3-7 days"
+          },
+          "features": {
+            "en": [
+              "Application containerization using Docker",
+              "Custom Dockerfile creation adapted to the application stack",
+              "Multi-stage builds for smaller and more secure images",
+              "Docker Compose setup for local and production environments",
+              "Environment variable and secrets management",
+              "Optimized image size and startup performance",
+              "Container networking and volume configuration",
+              "Best practices for security and maintainability",
+              "Documentation and usage instructions"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Hosting & Maintenance"
+      },
+      "services": [
+        {
+          "name": {
+            "en": "Web Hosting"
+          },
+          "description": {
+            "en": "Reliable hosting for your website"
+          },
+          "icon": "services/antenna-icon-lg.webp",
+          "price": "30-80",
+          "duration": {
+            "en": "1-3 days"
+          },
+          "features": {
+            "en": [
+              "Reliable hosting for your website with fast loading times",
+              "Professional email address included (e.g. contact@yourdomain.com)",
+              "Secure server environment",
+              "Automatic daily backups to protect your data",
+              "Optimized for mobile and desktop visitors",
+              "Basic monitoring and support"
+            ]
+          }
+        },
+        {
+          "name": {
+            "en": "Website Maintenance"
+          },
+          "description": {
+            "en": "Keep your website up-to-date and secure"
+          },
+          "icon": "services/website-maintenance-icon-lg.webp",
+          "price": "50-150",
+          "duration": {
+            "en": "per month"
+          },
+          "features": {
+            "en": [
+              "Regular content and software updates",
+              "Security patches to keep your site safe",
+              "Performance optimization for faster pages",
+              "Monthly performance and security report",
+              "Priority support for any issues",
+              "Peace of mind knowing your website is maintained"
+            ]
+          }
+        },
+        {
+          "name": {
+            "en": "Mobile App Publishing"
+          },
+          "description": {
+            "en": "Publish and deploy your mobile apps to Google Play Store and Apple App Store"
+          },
+          "icon": "services/mobile-icon-lg.webp",
+          "price": "70-260",
+          "duration": {
+            "en": "3-7 days"
+          },
+          "features": {
+            "en": [
+              "Google Play Console and Apple App Store Connect configuration",
+              "Production & internal testing release track setup",
+              "Store listing metadata, keywords, and screenshots preparation",
+              "Guidance on app review guidelines and compliance",
+              "App bundle and IPA signing & verification"
+            ]
+          },
+          "plans": [
+            {
+              "id": "android",
+              "name": "Android",
+              "title": {
+                "en": "Android App Publishing"
+              },
+              "price_inr": "6,000",
+              "price_usd": "70.00",
+              "description": {
+                "en": "Google Play Console release, Android App Bundle (AAB) signing, store listing, screenshots, and compliance review"
+              },
+              "deliverables": [
+                { "name": "Google Play Store submission", "included": true },
+                { "name": "Play Console setup assistance", "included": true },
+                { "name": "AAB build & signing configuration", "included": true },
+                { "name": "Store listing, keywords & description", "included": true },
+                { "name": "App icon & screenshots preparation", "included": true },
+                { "name": "Google Play policy compliance check", "included": true },
+                { "name": "Apple App Store submission", "included": false },
+                { "name": "Apple developer certificates & provisioning", "included": false }
+              ]
+            },
+            {
+              "id": "ios",
+              "name": "iOS",
+              "title": {
+                "en": "iOS App Publishing"
+              },
+              "price_inr": "18,000",
+              "price_usd": "210.00",
+              "description": {
+                "en": "Apple Developer App Store Connect submission, certificates, provisioning profiles, TestFlight setup, and store review"
+              },
+              "deliverables": [
+                { "name": "Google Play Store submission", "included": false },
+                { "name": "Play Console setup assistance", "included": false },
+                { "name": "Apple App Store submission", "included": true },
+                { "name": "App Store Connect configuration", "included": true },
+                { "name": "Distribution certificates & provisioning profiles", "included": true },
+                { "name": "TestFlight beta release track", "included": true },
+                { "name": "Apple Human Interface compliance review", "included": true },
+                { "name": "App Store metadata & screenshots", "included": true }
+              ]
+            },
+            {
+              "id": "both",
+              "name": "Android + iOS",
+              "title": {
+                "en": "Dual Platform Publishing (Android + iOS)"
+              },
+              "price_inr": "22,000",
+              "price_usd": "260.00",
+              "description": {
+                "en": "Complete end-to-end publishing package for both Google Play Store and Apple App Store with coordinated release"
+              },
+              "deliverables": [
+                { "name": "Google Play Store submission", "included": true },
+                { "name": "Play Console setup assistance", "included": true },
+                { "name": "Apple App Store submission", "included": true },
+                { "name": "App Store Connect configuration", "included": true },
+                { "name": "Distribution certificates & signing (both platforms)", "included": true },
+                { "name": "Dual store metadata, keywords & screenshots", "included": true },
+                { "name": "TestFlight & internal testing tracks", "included": true },
+                { "name": "Store guidelines & privacy policy compliance", "included": true }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Mobile App Maintenance"
+          },
+          "description": {
+            "en": "Keep your mobile applications updated, secure, and compatible with the latest OS versions"
+          },
+          "icon": "services/website-maintenance-icon-lg.webp",
+          "price": "70-210",
+          "duration": {
+            "en": "per month"
+          },
+          "features": {
+            "en": [
+              "Regular dependency and SDK updates (Flutter, React Native, native)",
+              "Operating system compatibility testing for new Android & iOS versions",
+              "Crash monitoring, bug fixing, and performance optimization",
+              "Security patch management and certificate renewals",
+              "Monthly health and performance reports"
+            ]
+          },
+          "plans": [
+            {
+              "id": "android",
+              "name": "Android",
+              "title": {
+                "en": "Android App Maintenance"
+              },
+              "price_inr": "6,000 / mo",
+              "price_usd": "70.00 / mo",
+              "description": {
+                "en": "Ongoing Android app updates, Target SDK upgrades, Google Play compliance, crash monitoring, and bug fixes"
+              },
+              "deliverables": [
+                { "name": "Target SDK & Android OS upgrades", "included": true },
+                { "name": "Google Play policy compliance updates", "included": true },
+                { "name": "Gradle & library dependency updates", "included": true },
+                { "name": "Android crash monitoring & bug fixes", "included": true },
+                { "name": "Monthly performance report", "included": true },
+                { "name": "iOS version compatibility updates", "included": false },
+                { "name": "Apple Developer certificate renewals", "included": false }
+              ]
+            },
+            {
+              "id": "ios",
+              "name": "iOS",
+              "title": {
+                "en": "iOS App Maintenance"
+              },
+              "price_inr": "12,000 / mo",
+              "price_usd": "140.00 / mo",
+              "description": {
+                "en": "Ongoing iOS app updates, new iOS version compatibility, Apple certificates & provisioning renewals, and bug fixes"
+              },
+              "deliverables": [
+                { "name": "Target SDK & Android OS upgrades", "included": false },
+                { "name": "Google Play policy compliance updates", "included": false },
+                { "name": "New iOS version compatibility testing", "included": true },
+                { "name": "Apple Developer certificate renewals", "included": true },
+                { "name": "Xcode SDK & CocoaPods/SPM updates", "included": true },
+                { "name": "iOS crash monitoring & bug fixes", "included": true },
+                { "name": "Monthly performance report", "included": true }
+              ]
+            },
+            {
+              "id": "both",
+              "name": "Android + iOS",
+              "title": {
+                "en": "Dual Platform Maintenance (Android + iOS)"
+              },
+              "price_inr": "18,000 / mo",
+              "price_usd": "210.00 / mo",
+              "description": {
+                "en": "Comprehensive monthly maintenance coverage for both Android and iOS apps with priority support"
+              },
+              "deliverables": [
+                { "name": "Android & iOS OS upgrades", "included": true },
+                { "name": "Google Play & Apple App Store compliance", "included": true },
+                { "name": "Cross-platform SDK updates (Flutter/RN)", "included": true },
+                { "name": "Apple & Google certificates renewals", "included": true },
+                { "name": "Crash monitoring & priority bug fixes", "included": true },
+                { "name": "API & backend integration health checks", "included": true },
+                { "name": "Priority support & monthly reports", "included": true }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Automation & Scripts"
+      },
+      "services": [
+        {
+          "name": {
+            "en": "Process Automation"
+          },
+          "description": {
+            "en": "Automate repetitive tasks and workflows"
+          },
+          "icon": "services/automation-icon-lg.webp",
+          "price": "100-300",
+          "duration": {
+            "en": "1-2 weeks"
+          },
+          "features": {
+            "en": [
+              "Custom automation tailored to your business processes",
+              "Streamline repetitive tasks to save time and reduce errors",
+              "Scripts designed for reliability and maintainability",
+              "Integrates with existing tools and workflows",
+              "Clear documentation and handover included"
+            ]
+          }
+        },
+        {
+          "name": {
+            "en": "Custom Scripts"
+          },
+          "description": {
+            "en": "Custom scripts for specific needs"
+          },
+          "icon": "services/script-icon-lg.webp",
+          "price": "40-120",
+          "duration": {
+            "en": "2-5 days"
+          },
+          "features": {
+            "en": [
+              "Tailored scripts to meet your unique requirements",
+              "Optimized for speed and efficiency",
+              "Clean, well-documented code",
+              "Easy to maintain and update",
+              "Delivered with instructions for use"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "categories": [
+    {
+      "name": {
+        "en": "Websites"
+      },
+      "projects": [
+        {
+          "name": "PetAdopt",
+          "icon": "projects/folder-web.png",
+          "title": {
+            "en": "PetAdopt – Pet Adoption & Care Platform"
+          },
+          "date": {
+            "en": "Web Application"
+          },
+          "componentName": "PetAdoptContent",
+          "isFocus": false,
+          "isActive": false
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Mobile Apps"
+      },
+      "projects": [
+        {
+          "name": "ReviewX",
+          "icon": "projects/folder-reviewx.png",
+          "title": {
+            "en": "ReviewX – QR-Based Rating & Review System"
+          },
+          "date": {
+            "en": "Live on Google Play Store"
+          },
+          "componentName": "ReviewXContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "Homecare CRM",
+          "icon": "projects/folder-android.png",
+          "title": {
+            "en": "Homecare CRM - Home Healthcare Management Platform"
+          },
+          "date": {
+            "en": "Industrial Project - Mediforte Healthcare Services"
+          },
+          "componentName": "HomecareContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "BloodZone",
+          "icon": "projects/folder-android.png",
+          "title": {
+            "en": "BloodZone – Local Blood Emergency Response Platform"
+          },
+          "date": {
+            "en": "Cross-Platform Application (Android, iOS & Web)"
+          },
+          "componentName": "BloodZoneContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "SAP",
+          "icon": "projects/folder-android.png",
+          "title": {
+            "en": "SAP – Student Activity Points & Mentorship Platform"
+          },
+          "date": {
+            "en": "Cross-Platform Application (Android & iOS)"
+          },
+          "componentName": "SapContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "Woodland",
+          "icon": "projects/folder-android.png",
+          "title": {
+            "en": "Woodland – Outdoor Footwear & E-Commerce Shopping App"
+          },
+          "date": {
+            "en": "Mobile Application"
+          },
+          "componentName": "WoodlandContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "RideFlow",
+          "icon": "projects/folder-android.png",
+          "title": {
+            "en": "RideFlow - On-Demand Ride-Hailing & Driver Telemetry Platform"
+          },
+          "date": {
+            "en": "Monorepo Application"
+          },
+          "componentName": "RideHailingContent",
+          "isFocus": false,
+          "isActive": false
+        }
+      ]
+    }
+  ]
+}

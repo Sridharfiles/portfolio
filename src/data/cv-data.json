@@ -1,0 +1,33 @@
+{
+  "en": {
+    "education": [
+      {
+        "degree": "COMPUTER SCIENCE AND ENGINEERING",
+        "institution": "Kongu Engineering College, Erode",
+        "year": "2024 - Present"
+      },
+      {
+        "degree": "Diploma in Computer Engineering",
+        "institution": "Thiagarajar Polytechnic College, Salem",
+        "year": "2022 - 2024"
+      }
+    ],
+    "skills": {
+      "domains": [
+        "Cross-Platform App Development",
+        "Backend & Cloud Integration",
+        "Desktop Application Development"
+      ],
+      "frameworks": [
+        "Flutter",
+        ".NET",
+        "ReactJs"
+      ],
+      "programmingLanguages": [
+        "Dart",
+        "Java",
+        "C"
+      ]
+    }
+  }
+}

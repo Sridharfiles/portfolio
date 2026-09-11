@@ -1,0 +1,636 @@
+{
+  "name": "All-Time Favorite Tamil Hits",
+  "images": [
+    {
+      "url": "/img/icons/side-menu/music-icon.webp"
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
+  },
+  "tracks": {
+    "items": [
+      {
+        "id": "munbe-vaa",
+        "name": "Munbe Vaa",
+        "album": {
+          "name": "Sillunu Oru Kaadhal",
+          "images": [
+            {
+              "url": "/img/album-covers/munbe-vaa.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6Uel0GvI0cW11F7b3nJqJq",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Naresh Iyer, Shreya Ghoshal"
+          }
+        ],
+        "added_at": "2025-01-15T08:00:00Z",
+        "duration_ms": 358000
+      },
+      {
+        "id": "nenjukkul-peidhidum",
+        "name": "Nenjukkul Peidhidum",
+        "album": {
+          "name": "Vaaranam Aayiram",
+          "images": [
+            {
+              "url": "/img/album-covers/nenjukkul-peidhidum.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3v87NcfW39K5M1RjT7N8gR",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "Harris Jayaraj, Hariharan, Devan Ekambaram"
+          }
+        ],
+        "added_at": "2025-01-14T10:20:00Z",
+        "duration_ms": 371000
+      },
+      {
+        "id": "vaseegara",
+        "name": "Vaseegara",
+        "album": {
+          "name": "Minnale",
+          "images": [
+            {
+              "url": "/img/album-covers/vaseegara.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4eDjyZ2g58v8s4Q6WJdD9g",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "Harris Jayaraj, Bombay Jayashri"
+          }
+        ],
+        "added_at": "2025-01-13T12:00:00Z",
+        "duration_ms": 300000
+      },
+      {
+        "id": "kolaveri-di",
+        "name": "Why This Kolaveri Di",
+        "album": {
+          "name": "3",
+          "images": [
+            {
+              "url": "/img/album-covers/kolaveri-di.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1bMup0Ua3f5g3Jj6lR8kQG",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "Anirudh Ravichander, Dhanush"
+          }
+        ],
+        "added_at": "2025-01-12T09:15:00Z",
+        "duration_ms": 245000
+      },
+      {
+        "id": "kadhale-kadhale",
+        "name": "Kadhale Kadhale",
+        "album": {
+          "name": "96",
+          "images": [
+            {
+              "url": "/img/album-covers/kadhale-kadhale.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Z0D1h78s8eR3F8u6t1n2v",
+            "deezer": "https://www.deezer.com/track/2165509787"
+          }
+        },
+        "artists": [
+          {
+            "name": "Govind Vasantha, Chinmayi Sripaada"
+          }
+        ],
+        "added_at": "2025-01-11T14:30:00Z",
+        "duration_ms": 192000
+      },
+      {
+        "id": "kannazhaga",
+        "name": "Kannazhaga",
+        "album": {
+          "name": "3",
+          "images": [
+            {
+              "url": "/img/album-covers/kannazhaga.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr",
+            "deezer": "https://www.deezer.com/track/1373268472"
+          }
+        },
+        "artists": [
+          {
+            "name": "Anirudh Ravichander, Dhanush, Shruti Haasan"
+          }
+        ],
+        "added_at": "2025-01-10T16:45:00Z",
+        "duration_ms": 204000
+      },
+      {
+        "id": "aalaporaan-thamizhan",
+        "name": "Aalaporaan Thamizhan",
+        "album": {
+          "name": "Mersal",
+          "images": [
+            {
+              "url": "/img/album-covers/aalaporaan-thamizhan.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4K6Dh7e0V5t0b1r9v5g8s7",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Kailash Kher, D. Sathyaprakash"
+          }
+        ],
+        "added_at": "2025-01-09T11:00:00Z",
+        "duration_ms": 348000
+      },
+      {
+        "id": "maruvaarthai",
+        "name": "Maruvaarthai",
+        "album": {
+          "name": "Enai Noki Paayum Thota",
+          "images": [
+            {
+              "url": "/img/album-covers/maruvaarthai.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2tE8g1t8s0v8r1u9w5g7s6",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "Darbuka Siva, Sid Sriram"
+          }
+        ],
+        "added_at": "2025-01-08T18:20:00Z",
+        "duration_ms": 353000
+      },
+      {
+        "id": "ennavale-adi-ennavale",
+        "name": "Ennavale Adi Ennavale",
+        "album": {
+          "name": "Kadhalan",
+          "images": [
+            {
+              "url": "/img/album-covers/ennavale-adi-ennavale.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3w9E8g2t8s1v0r1u8w4g5s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, P. Unnikrishnan"
+          }
+        ],
+        "added_at": "2025-01-07T09:40:00Z",
+        "duration_ms": 312000
+      },
+      {
+        "id": "poove-sempoove",
+        "name": "Poove Sempoove",
+        "album": {
+          "name": "Solla Thudikuthu Manasu",
+          "images": [
+            {
+              "url": "/img/album-covers/poove-sempoove.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5r8E9g3t7s2v1r0u7w3g4s",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "Ilaiyaraaja, K.J. Yesudas"
+          }
+        ],
+        "added_at": "2025-01-06T15:10:00Z",
+        "duration_ms": 330000
+      },
+      {
+        "id": "rowdy-baby",
+        "name": "Rowdy Baby",
+        "album": {
+          "name": "Maari 2",
+          "images": [
+            {
+              "url": "/img/album-covers/rowdy-baby.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6t7E0g4t6s3v2r9u6w2g3s",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "Yuvan Shankar Raja, Dhanush, Dhee"
+          }
+        ],
+        "added_at": "2025-01-05T13:00:00Z",
+        "duration_ms": 284000
+      },
+      {
+        "id": "hosanna",
+        "name": "Hosanna",
+        "album": {
+          "name": "Vinnaithaandi Varuvaayaa",
+          "images": [
+            {
+              "url": "/img/album-covers/hosanna.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7u8F1g5t5s4v3r8u5w1g2s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Vijay Prakash, Suzanne D'Mello"
+          }
+        ],
+        "added_at": "2025-01-04T17:25:00Z",
+        "duration_ms": 331000
+      },
+      {
+        "id": "arabic-kuthu",
+        "name": "Arabic Kuthu (Halamithi Habibo)",
+        "album": {
+          "name": "Beast",
+          "images": [
+            {
+              "url": "/img/album-covers/arabic-kuthu.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/8v9G2t6s4v5w2r7u4w0g1s",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "Anirudh Ravichander, Jonita Gandhi"
+          }
+        ],
+        "added_at": "2025-01-03T11:45:00Z",
+        "duration_ms": 280000
+      },
+      {
+        "id": "kanja-poovu-kannala",
+        "name": "Kanja Poovu Kannala",
+        "album": {
+          "name": "Viruman",
+          "images": [
+            {
+              "url": "/img/album-covers/kanja-poovu-kannala.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/9w0H3t7s3v6w1r6u3w9g0s",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "Yuvan Shankar Raja, Sid Sriram"
+          }
+        ],
+        "added_at": "2025-01-02T19:30:00Z",
+        "duration_ms": 254000
+      },
+      {
+        "id": "kaattumalli",
+        "name": "Kaattumalli",
+        "album": {
+          "name": "Viduthalai Part 1",
+          "images": [
+            {
+              "url": "/img/album-covers/kaattumalli.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0x1I4t8s2v7w0r5u2w8g9s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "Ilaiyaraaja, Ananya Bhat"
+          }
+        ],
+        "added_at": "2025-01-01T20:00:00Z",
+        "duration_ms": 298000
+      },
+      {
+        "id": "uyire-uyire",
+        "name": "Uyire Uyire",
+        "album": {
+          "name": "Bombay",
+          "images": [
+            {
+              "url": "/img/album-covers/uyire-uyire.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1y2J5t9s1v8w9r4u1w7g8s",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Hariharan, K.S. Chithra"
+          }
+        ],
+        "added_at": "2024-12-30T10:15:00Z",
+        "duration_ms": 435000
+      },
+      {
+        "id": "new-york-nagaram",
+        "name": "New York Nagaram",
+        "album": {
+          "name": "Sillunu Oru Kaadhal",
+          "images": [
+            {
+              "url": "/img/album-covers/new-york-nagaram.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2z3K6t0s0v9w8r3u0w6g7s",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman"
+          }
+        ],
+        "added_at": "2024-12-28T14:40:00Z",
+        "duration_ms": 378000
+      },
+      {
+        "id": "pookkalae-sattru-oyivedungal",
+        "name": "Pookkalae Sattru Oyivedungal",
+        "album": {
+          "name": "I",
+          "images": [
+            {
+              "url": "/img/album-covers/pookkalae-sattru-oyivedungal.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3a4L7t1s9v0w7r2u9w5g6s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Haricharan, Shreya Ghoshal"
+          }
+        ],
+        "added_at": "2024-12-25T16:20:00Z",
+        "duration_ms": 308000
+      },
+      {
+        "id": "anbil-avan",
+        "name": "Anbil Avan",
+        "album": {
+          "name": "Vinnaithaandi Varuvaayaa",
+          "images": [
+            {
+              "url": "/img/album-covers/anbil-avan.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4b5M8t2s8v1w6r1u8w4g5s",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Devan Ekambaram, Chinmayi"
+          }
+        ],
+        "added_at": "2024-12-22T08:50:00Z",
+        "duration_ms": 232000
+      },
+      {
+        "id": "mei-nigara",
+        "name": "Mei Nigara",
+        "album": {
+          "name": "24",
+          "images": [
+            {
+              "url": "/img/album-covers/mei-nigara.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5c6N9t3s7v2w5r0u7w3g4s",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Sid Sriram, Sanah Moidutty"
+          }
+        ],
+        "added_at": "2024-12-20T12:10:00Z",
+        "duration_ms": 290000
+      },
+      {
+        "id": "adiye",
+        "name": "Adiye",
+        "album": {
+          "name": "Kadal",
+          "images": [
+            {
+              "url": "/img/album-covers/adiye.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6d7O0t4s6v3w4r9u6w2g3s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Sid Sriram"
+          }
+        ],
+        "added_at": "2024-12-18T18:00:00Z",
+        "duration_ms": 303000
+      },
+      {
+        "id": "enna-solla-pogirai",
+        "name": "Enna Solla Pogirai",
+        "album": {
+          "name": "Kandukondain Kandukondain",
+          "images": [
+            {
+              "url": "/img/album-covers/enna-solla-pogirai.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7e8P1t5s5v4w3r8u5w1g2s",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Shankar Mahadevan"
+          }
+        ],
+        "added_at": "2024-12-15T11:35:00Z",
+        "duration_ms": 360000
+      },
+      {
+        "id": "otha-sollaala",
+        "name": "Otha Sollaala",
+        "album": {
+          "name": "Aadukalam",
+          "images": [
+            {
+              "url": "/img/album-covers/otha-sollaala.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/8f9Q2t6s4v5w2r7u4w0g1s",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "G.V. Prakash Kumar, Velmurugan"
+          }
+        ],
+        "added_at": "2024-12-12T15:50:00Z",
+        "duration_ms": 239000
+      },
+      {
+        "id": "ennodu-nee-irundhaal",
+        "name": "Ennodu Nee Irundhaal",
+        "album": {
+          "name": "I",
+          "images": [
+            {
+              "url": "/img/album-covers/ennodu-nee-irundhaal.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/9g0R3t7s3v6w1r6u3w9g0s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Sid Sriram, Sunitha Sarathy"
+          }
+        ],
+        "added_at": "2024-12-10T09:20:00Z",
+        "duration_ms": 352000
+      },
+      {
+        "id": "thalli-pogathey",
+        "name": "Thalli Pogathey",
+        "album": {
+          "name": "Achcham Yenbadhu Madamaiyada",
+          "images": [
+            {
+              "url": "/img/album-covers/thalli-pogathey.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0h1S4t8s2v7w0r5u2w8g9s",
+            "deezer": "https://www.deezer.com/track/1655565142"
+          }
+        },
+        "artists": [
+          {
+            "name": "A.R. Rahman, Sid Sriram, ADK, Dinesh Kanagaratnam"
+          }
+        ],
+        "added_at": "2024-12-08T14:15:00Z",
+        "duration_ms": 266000
+      },
+      {
+        "id": "kutti-story",
+        "name": "Kutti Story",
+        "album": {
+          "name": "Master",
+          "images": [
+            {
+              "url": "/img/album-covers/kutti-story.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1i2T5t9s1v8w9r4u1w7g8s",
+            "deezer": "https://www.deezer.com/track/1772850617"
+          }
+        },
+        "artists": [
+          {
+            "name": "Anirudh Ravichander, Thalapathy Vijay"
+          }
+        ],
+        "added_at": "2024-12-05T17:30:00Z",
+        "duration_ms": 322000
+      },
+      {
+        "id": "naan-pizhai",
+        "name": "Naan Pizhai",
+        "album": {
+          "name": "Kaathuvaakula Rendu Kaadhal",
+          "images": [
+            {
+              "url": "/img/album-covers/naan-pizhai.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2j3U6t0s0v9w8r3u0w6g7s",
+            "deezer": "https://www.deezer.com/track/1166205"
+          }
+        },
+        "artists": [
+          {
+            "name": "Anirudh Ravichander, Ravi G, Shashaa Tirupati"
+          }
+        ],
+        "added_at": "2024-12-01T20:45:00Z",
+        "duration_ms": 241000
+      }
+    ]
+  }
+}
